@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Directory from '../components/Directory';
+import Directory from '../../components/Directory';
 
-import './Homepage.styles.scss';
+import './homepage.styles.scss';
 
 const HomePage = () => {
   return (
